@@ -9,7 +9,7 @@
 
 @media screen and (max-width: 1024px) {
   .lead__imag {
-    max-width: 928px;
+    max-width: 96%;
     max-height: 580px;
     margin: 56px auto 0;
   }

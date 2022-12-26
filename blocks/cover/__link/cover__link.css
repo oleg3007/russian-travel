@@ -10,6 +10,7 @@
   position: relative;
   background-image: url(../../../images/__background.jpg);
   background-position: center;
+  margin-bottom: 92px;
 }
 
 
@@ -36,7 +37,18 @@
   .cover__link {
     max-width: 1024px;
     min-height: auto;
-    margin-bottom: 64px;
     aspect-ratio: 8/5;
+  }
+}
+
+@media (max-width: 768px) {
+  .cover__link {
+    margin-bottom: 88px;
+  }
+}
+
+@media (max-width: 425px) {
+  .cover__link {
+    margin-bottom: 64px;
   }
 }
