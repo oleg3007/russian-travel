@@ -1,8 +1,10 @@
 .lead__imag {
+	display: block;
   max-width: 984px;
   max-height: 615px;
   margin: 64px 0 0 0;
-  flex: 1 1 auto;
+  object-fit: cover;
+	object-position: center;
 }
 
 @media screen and (max-width: 1024px) {

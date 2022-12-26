@@ -36,7 +36,7 @@
   .cover__link {
     max-width: 1024px;
     min-height: auto;
-    margin-bottom: 92px;
+    margin-bottom: 64px;
     aspect-ratio: 8/5;
   }
 }

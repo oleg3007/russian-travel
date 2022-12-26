@@ -9,23 +9,13 @@
 @media screen and (max-width: 768px) {
   .footer {
     margin: 0 24px 24px;
-  }
-}
-
-@media screen and (max-width: 713px) {
-  .footer {
     flex-direction: column;
   }
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 425px) {
   .footer {
     align-items: start;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .footer {
     margin: 0 0 24px 16px;
   }
 }
