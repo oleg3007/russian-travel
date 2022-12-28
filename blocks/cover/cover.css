@@ -14,9 +14,3 @@
     margin-top: 2px;
   }
 }
-
-@media (max-width: 425px) {
-  .cover {
-    padding-bottom: 63px;
-  }
-}
